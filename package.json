@@ -1,4 +1,8 @@
 {
   "name": "plasmic-x-51",
-  "packageManager": "yarn@3.5.0"
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "@plasmicapp/cli": "^0.1.256",
+    "@plasmicapp/react-web": "^0.2.192"
+  }
 }
